@@ -1,0 +1,13 @@
+# Java / Maven
+**/target/
+.mvn/wrapper/maven-wrapper.jar
+
+# Python
+**/__pycache__/
+**/.pytest_cache/
+**/.venv/
+venv/
+
+.env
+.idea/workspace.xml
+*.iml
